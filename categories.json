@@ -1,0 +1,168 @@
+{
+  "Продукты": [
+    "пятерочка",
+    "магнит",
+    "дикси",
+    "лента",
+    "перекресток",
+    "arbuz",
+    "arbuz group",
+    "арбуз",
+    "арбуз груп",
+    "MAGNUM CASH&CARRY",
+    "магнум",
+    "GASTRONOM",
+    "NASH MARKET",
+    "IP AIYM",
+    "Супермаркет",
+    "GALMART",
+    "Choco",
+    "Гастроном",
+    "Airba Fresh",
+    "MAGNUM"
+  ],
+
+  "Транспорт": [
+    "яндекс такси",
+    "uber",
+    "metro",
+    "shell",
+    "лукойл",
+    "YANDEX.GO",
+    "Парковка",
+    "Паркинг",
+    "парковок",
+    "FlyArystan",
+    "Avtobys"
+  ],
+  
+  "Навынос": [
+    "starbucks",
+    "Green Mall",
+    "Зеленый квартал",
+    "PLOV",
+    "кафе",
+    "Хачапури",
+    "Хинкальевия",
+    "TAGAM",
+    "кофе",
+    "burger king",
+    "mcdonald",
+    "kfc",
+    "subway",
+    "dodo pizza",
+    "pizzahut",
+    "papa john's",
+    "CANTEEN",
+    "COFFEE",
+    "Wolt",
+    "ZEBRA",
+    "ДОДО ПИЦЦА",
+    "HAPPYCAKE",
+    "SYGANAK",
+    "SHALKAROV",
+    "BAO",
+    "Drinkit",
+    "BLACKBERI",
+    "SANDYQ",
+    "KULTURA DIKTUET",
+    "BSG",
+    "MCC: 5812",
+    "Gippo",
+    "ПИКАПИКА",
+    "смайл",
+    "БЛИННАЯ",
+    "Пекарня",
+    "Smuq",
+    "BBQ",
+    "Bar",
+    "Coco",
+    "DAMFOOD"
+  ],
+  
+  "Списания": [
+    "списание",
+    "withdrawal",
+    "Перевод",
+    "transfer",
+    "Commission",
+    "комиссия",
+    "Налог",
+    "fee"
+  ],
+  
+  "Пополнения": [
+    "пополнение",
+    "Replenishment",
+    "возврат"
+  ],
+  
+  "Покупки": [
+    "ozon",
+    "wildberries",
+    "aliexpress",
+    "amazon",
+    "citilink",
+    "B H PHOTO",
+    "GLOBBING",
+    "DHL",
+    "Technodom",
+    "ЯМузыка",
+    "МУЗТОРГ",
+    "Kamerton",
+    "Технодом"
+  ],
+  
+  "Подписки": [
+    "netflix",
+    "spotify",
+    "yandex plus",
+    "яндекс плюс",
+    "ivi",
+    "okko",
+    "Оплата за годовое обслуживание",
+    "bill"
+  ],
+  
+  "Интернет и связь": [
+    "beeline",
+    "mts",
+    "tele2",
+    "megafon",
+    "yota",
+    "kcell",
+    "Қазақтелеком",
+    "Activ",
+    "Кселл",
+    "Казахтелеком"
+  ],
+
+  "Комуслуги": [
+    "жкх",
+    "комуслуги",
+    "mos.ru",
+    "mgu",
+    "mgu-online",
+    "mgu online",
+    "Алсеко",
+    "alseco",
+    "Коммуналка"
+  ],
+  
+  "Развлечения и спорт": [
+    "BalQaragai",
+    "WINNERS"
+  ],
+  
+  "Здоровье": [
+    "Pharmsklad",
+    "ДОКТОРСЛОН",
+    "ДОКТОР",
+    "Медицина",
+    "МЕДИКАЛ",
+    "Аптека",
+    "Гиппократ"
+  ],
+
+  "Разное": []
+}
